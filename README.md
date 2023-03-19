@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ripunjay Kumar</h1>
 <h3 align="center">Software Development Engineer</h3>
 
